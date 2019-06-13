@@ -1,2 +1,2 @@
 # Dungeon-Crawler
-Followed a tutorial on how to build an rpg game. 
+A tile based rpg game using React/Redux. 
